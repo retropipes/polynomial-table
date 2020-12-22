@@ -1,2 +1,2 @@
-# lib-java-polynomial-table
+# Polynomial Table
  Polynomial Table library for Java
